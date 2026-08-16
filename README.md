@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Parimal 👋
 
-<!--
-**parimalmadam6-dot/parimalmadam6-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML student (final year, B.Tech CSE - AI & ML) building practical, LLM-powered and 
+data-driven applications.
 
-Here are some ideas to get you started:
+- 🔭 Currently building: FitNova AI — an LLM-powered fitness assistant
+- 🌱 Learning: Deep learning, RAG pipelines, scalable backend design
+- 📄 Co-authored an IEEE-format paper on AI-powered wellness applications
+- 📫 Reach me: parimalmadam6@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- **FitNova AI** — Conversational fitness assistant using Groq LLM API, Streamlit, SQLite
+- **OTT Streaming Clone** — Netflix-style app with Firebase Auth & Firestore, TMDB API
+- **Market Basket Analysis** — Apriori/FP-Growth based retail recommendation system
+
+### Tech Stack
+Python · Streamlit · Firebase · MongoDB · SQLite · Git
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=parimalmadam6-dot&show_icons=true&theme=default)
